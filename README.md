@@ -2,4 +2,5 @@
 # Heroz chat
 Chat en ligne (php/js) sans base de données
 
-## Screenshots
+## Demo
+Une démonstration est disponible [ici](http://heroz.rf.gd/demo/heroz_chat/index.php "").
