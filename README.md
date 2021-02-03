@@ -10,3 +10,10 @@ Une démonstration est disponible [ici](http://heroz.rf.gd/demo/heroz_chat/index
 
 ## Personalisation
 Heroz chat est personalisable grâce à son *futur* **panneau administrateur**.
+
+## Fonctionalités
+
+|:-:|
+|Fonctionalité|
+|Le chat est sauvegardé dans un fichier qui est utilisé pour afficher les messages|
+|Le chat est supprimable|
