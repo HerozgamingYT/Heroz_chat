@@ -2,8 +2,11 @@
 # Heroz chat
 Chat en ligne (*php/js*) **sans base de données**
 
+## Installation
+
+
 ## Demo
 Une démonstration est disponible [ici](http://heroz.rf.gd/demo/heroz_chat/index.php "").
 
-## Admin
+## Personalisation
 Heroz chat est personalisable grâce à son *futur* **panneau administrateur**.
